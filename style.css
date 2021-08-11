@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.fa{
+    color: cornflowerblue;
+}
+.box{
+    padding: 60px 0px;
+}
+.box-center{
+    background-color: white;
+    border-radius: 10px;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+.text{
+    margin: 20px 0px;
+}
+span{
+    font-size: 15px;
+}
